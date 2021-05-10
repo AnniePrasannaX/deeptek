@@ -1,0 +1,12 @@
+{"Minio":{"username":"Miniouser",
+    "password":"pwd",
+    "dbname":"db",
+    "hostname":"host"
+   },
+"Mysql":{"username":"root",
+    "password":"anju123H",
+    "dbname":"mysql",
+    "hostname":"192.168.0.12",
+    "port":3306
+    }
+}
